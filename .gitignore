@@ -1,6 +1,5 @@
 *.data
 *.log
-*.txt
 *.csv
 *.json
 *.yaml
